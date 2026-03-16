@@ -1,0 +1,7 @@
+{
+  "slug": "stock-technical-analysis",
+  "version": "1.0.0",
+  "description": "股票技術分析技能 - 計算 MA/RSI/KD 指標",
+  "tags": ["stock", "finance", "technical-analysis"],
+  "author": "Tony Stark"
+}
